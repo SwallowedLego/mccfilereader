@@ -1,0 +1,228 @@
+================================================================================
+                    VOLLSTÄNDIGE MCC-DATEI ANALYSE
+                          c.2.-50.mcc
+================================================================================
+
+DATEIINFORMATIONEN
+--------------------------------------------------------------------------------
+Datei:                  c.2.-50.mcc
+Komprimierte Größe:     10.035.068 bytes (~9,6 MB)
+Dekomprimierte Größe:   74.293.396 bytes (~71 MB)
+Format:                 Minecraft Chunk-Datei (NBT-Format, zlib-komprimiert)
+
+================================================================================
+CHUNK-INFORMATIONEN
+================================================================================
+Chunk-Position:         [2, -50]
+                        (Das bedeutet X=32 bis 47, Z=-800 bis -785 in Welt-Koordinaten)
+Minecraft Version:      Data Version 4556 (Minecraft ~1.21.x)
+
+================================================================================
+ENTITÄTEN - ÜBERSICHT
+================================================================================
+GESAMT:                 128.439 Entitäten
+
+Verteilung:
+  - minecraft:creeper:   7 Stück
+  - minecraft:snowball:  128.432 Stück
+
+================================================================================
+DETAILLIERTE CREEPER-INFORMATIONEN
+================================================================================
+
+[Creeper #1]
+  Position:           X=41,89  Y=80,00  Z=-792,89
+  Rotation:           Yaw=45,0°  Pitch=0,0°
+  Bewegung:           (0,000, -0,078, 0,000) - fällt leicht
+  Auf dem Boden:      Ja
+  Spawn-Grund:        NATURAL (Natürliches Spawning)
+  Attribute:
+    - Bewegungsgeschwindigkeit: 0,25
+    - Folge-Reichweite: 16 Blöcke
+
+[Creeper #2]
+  Position:           X=39,50  Y=80,00  Z=-790,50
+  Rotation:           Yaw=219,8°  Pitch=0,0°
+  Bewegung:           (0,000, -0,078, 0,000) - fällt leicht
+  Auf dem Boden:      Ja
+  Spawn-Grund:        NATURAL
+  Attribute:
+    - Bewegungsgeschwindigkeit: 0,25
+    - Folge-Reichweite: 16 Blöcke
+
+[Creeper #3]
+  Position:           X=39,50  Y=80,00  Z=-791,50
+  Rotation:           Yaw=346,3°  Pitch=0,0°
+  Bewegung:           (0,000, -0,078, 0,000) - fällt leicht
+  Auf dem Boden:      Ja
+  Spawn-Grund:        NATURAL
+  Attribute:
+    - Bewegungsgeschwindigkeit: 0,25
+    - Folge-Reichweite: 16 Blöcke
+
+[Creeper #4]
+  Position:           X=38,59  Y=80,00  Z=-799,70
+  Rotation:           Yaw=135,0°  Pitch=0,0°
+  Bewegung:           (0,000, -0,078, 0,000) - fällt leicht
+  Auf dem Boden:      Ja
+  Spawn-Grund:        NATURAL
+  Attribute:
+    - Bewegungsgeschwindigkeit: 0,25
+    - Folge-Reichweite: 16 Blöcke
+
+[Creeper #5]
+  Position:           X=47,50  Y=80,00  Z=-793,50
+  Rotation:           Yaw=177,6°  Pitch=0,0°
+  Bewegung:           (0,000, -0,078, 0,000) - fällt leicht
+  Auf dem Boden:      Ja
+  Spawn-Grund:        NATURAL
+  Attribute:
+    - Bewegungsgeschwindigkeit: 0,25
+    - Folge-Reichweite: 16 Blöcke
+
+[Creeper #6]
+  Position:           X=41,83  Y=80,00  Z=-785,49
+  Rotation:           Yaw=269,4°  Pitch=1,4°
+  Bewegung:           (-0,351, 0,361, 0,096) - springt und bewegt sich!
+  Auf dem Boden:      Ja
+  Spawn-Grund:        NATURAL
+  Attribute:
+    - Bewegungsgeschwindigkeit: 0,25
+    - Folge-Reichweite: 16 Blöcke
+
+[Creeper #7]
+  Position:           X=40,76  Y=80,06  Z=-799,71
+  Rotation:           Yaw=46,2°  Pitch=0,0°
+  Bewegung:           (-0,009, -0,078, 0,008) - leichte Bewegung
+  Auf dem Boden:      Ja
+  Spawn-Grund:        NATURAL
+  Attribute:
+    - Bewegungsgeschwindigkeit: 0,25
+    - Folge-Reichweite: 16 Blöcke
+
+================================================================================
+SCHNEEBALL-INFORMATIONEN
+================================================================================
+
+Anzahl:                 128.432 Schneebälle!!
+
+Status:                 Alle Schneebälle sind Projektile in der Luft
+Spawn-Grund:            DEFAULT (von Spieler oder Schneemann geworfen)
+Bewegung:               Alle haben unterschiedliche Flugbahnen
+Auf dem Boden:          Nein (0) - alle in der Luft
+
+Beispiele der ersten Schneebälle:
+  - Position: (47,37, 81,33, -786,80) | Rotation: -82,1°, 6,8° | Motion: (-1,605, 0,170, 0,222)
+  - Position: (43,11, 81,18, -785,73) | Rotation: -78,0°, 1,1° | Motion: (-1,445, -0,040, 0,307)
+  - Position: (42,48, 81,25, -786,23) | Rotation: -83,0°, 1,7° | Motion: (-1,599, -0,023, 0,195)
+
+================================================================================
+KOORDINATEN-ZUSAMMENFASSUNG
+================================================================================
+
+Alle Entitäten befinden sich im Bereich:
+  X-Koordinaten:      ca. 38 bis 48 (10 Blöcke Breite)
+  Y-Koordinaten:      ca. 80 bis 82 (Höhe)
+  Z-Koordinaten:      ca. -800 bis -785 (15 Blöcke Tiefe)
+
+Dies entspricht dem Minecraft Chunk [2, -50]
+
+================================================================================
+WER HAT WAS GEMACHT?
+================================================================================
+
+⚠️  WICHTIG: KEINE SPIELER-IDENTIFIKATION GEFUNDEN!
+--------------------------------------------------------------------------------
+
+Die Schneebälle enthalten KEINE Owner/Besitzer-Informationen:
+  ❌ Keine Spieler-UUIDs
+  ❌ Keine Spielernamen
+  ❌ Keine "ThrownBy" oder "Owner" Felder
+
+MÖGLICHE QUELLEN DER SCHNEEBÄLLE:
+================================================================================
+
+1. ⛄ SCHNEEMANN (Snow Golem)
+   - Schneemänner werfen automatisch Schneebälle auf Monster
+   - Die 7 Creeper im Chunk könnten das Ziel sein
+   - Schneemänner erzeugen Schneebälle ohne Owner-Information
+   - WAHRSCHEINLICHKEIT: SEHR HOCH ⭐⭐⭐⭐⭐
+
+2. 🎮 COMMAND BLOCKS
+   - /summon minecraft:snowball ~ ~ ~ {Motion:[x,y,z]}
+   - Command Blocks hinterlassen keine Spieler-Referenz
+   - WAHRSCHEINLICHKEIT: HOCH ⭐⭐⭐⭐
+
+3. 🔧 SERVER-OPTIMIERUNG
+   - Owner-Daten wurden vom Server entfernt (Performance)
+   - Manche Server löschen Entity-Owner nach kurzer Zeit
+   - WAHRSCHEINLICHKEIT: MITTEL ⭐⭐⭐
+
+4. 🧹 CHUNK-BEREINIGUNG
+   - Die Datei wurde gefiltert/bearbeitet vor dem Export
+   - WAHRSCHEINLICHKEIT: GERING ⭐
+
+NATÜRLICHES SPAWNING:
+  - 7 Creeper sind natürlich im Chunk gespawnt (bestätigt durch "NATURAL" Flag)
+  - Alle Creeper befinden sich auf Y-Level 80
+  - Die Creeper sind gleichmäßig im Chunk verteilt
+
+WAHRSCHEINLICHSTES SZENARIO:
+================================================================================
+Ein oder mehrere SCHNEEMÄNNER (Snow Golems) haben die Creeper angegriffen
+und dabei 128.432 Schneebälle auf die 7 Creeper geworfen!
+
+Schneemänner werfen alle 1,05 Sekunden einen Schneeball. Bei 128.432 Schneebällen
+bedeutet dies:
+  - Dauer: ~37,5 Stunden Dauerbeschuss (bei einem Schneemann)
+  - ODER: ~18 Schneemänner über 2 Stunden
+  - ODER: Ein automatisiertes System hat viele Schneemänner spawned
+
+================================================================================
+TECHNISCHE DETAILS
+================================================================================
+
+Format:                 NBT (Named Binary Tag)
+Kompression:            zlib
+Chunk-Format:           Minecraft Anvil/Region Format
+Entitäten pro Typ:
+  - TAG_Compound mit Position (Pos)
+  - TAG_List mit Rotation (Rotation)
+  - TAG_List mit Motion (Motion)
+  - TAG_Byte für OnGround
+  - TAG_String für Spawn-Grund
+
+================================================================================
+GENERIERTE DATEIEN
+================================================================================
+
+1. c.2.-50_complete.json        (53 MB)  - Vollständige JSON-Daten aller Entitäten
+2. c.2.-50_report.txt            (22 MB)  - Detaillierter Report mit allen Entitäten
+3. c.2.-50_analysis.json         (2,5 KB) - Basis-Analyse-Zusammenfassung
+4. ANALYSE_ZUSAMMENFASSUNG.txt   (Diese Datei) - Übersichtliche Zusammenfassung
+
+================================================================================
+FAZIT
+================================================================================
+
+Diese Minecraft-Chunk-Datei dokumentiert einen außergewöhnlichen Moment:
+
+- Ein spezifischer Chunk an der Position [2, -50]
+- 7 natürlich gespawnte Creeper auf Höhe 80
+- Über 128.000 fliegende Schneebälle
+
+🎯 HAUPTERKENNTNIS:
+Die Schneebälle wurden WAHRSCHEINLICH von SCHNEEMÄNNERN (Snow Golems) geworfen,
+nicht von Spielern! Schneemänner greifen automatisch Monster an und hinterlassen
+keine Owner-Informationen in den Projektilen.
+
+Dies war vermutlich:
+  - Eine Mob-Farm oder Verteidigungsanlage mit vielen Schneemännern
+  - Ein Test/Experiment mit automatischer Mob-Bekämpfung
+  - Eine Lag-Maschine oder Performance-Test
+
+Alle Koordinaten, Rotationen und Bewegungsvektoren wurden erfolgreich extrahiert!
+
+================================================================================
+                        Analyse erstellt am: 5. Dezember 2025
+================================================================================
