@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "total_snowballs": 128432,
+    "min_age_ticks": 0,
+    "max_age_ticks": 0,
+    "avg_age_ticks": 0.0,
+    "timespan_minutes": 0.0,
+    "timespan_hours": 0.0,
+    "spawn_rate_per_second": 0,
+    "stationary_percentage": 0.0,
+    "avg_motion": 1.9950105907438964
+  },
+  "timeline_5min_intervals": {
+    "0": 128432
+  },
+  "anomalies": [],
+  "y_level_stats": {
+    "min": 80.1817966116697,
+    "max": 81.99318256759342,
+    "avg": 81.28229056028853,
+    "range": 1.8113859559237255
+  }
+}

@@ -1,0 +1,16 @@
+================================================================================
+SCHNEEBALL TIMELINE ANALYSE
+================================================================================
+
+Gesamt: 128,432 Schneebälle
+
+ZEITLICHE STATISTIKEN:
+--------------------------------------------------------------------------------
+Ältester Schneeball:  0 Ticks = 0.0 Minuten
+Jüngster Schneeball:  0 Ticks = 0.0 Minuten
+Zeitspanne:           0.00 Stunden
+Spawn-Rate:           0.00 Schneebälle/Sekunde
+
+TIMELINE (5-Minuten-Intervalle):
+--------------------------------------------------------------------------------
+   0 min vor Save: 128432 Schneebälle
